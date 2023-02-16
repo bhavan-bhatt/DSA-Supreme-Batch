@@ -26,7 +26,7 @@ int main(){
     for(row=0;row<rowcount;row++){
         if(row==0 || row == rowcount-1){
             for(col=0;col<colcount;col++){
-                cout << " * " ;
+                cout << " * ";
             }
         }
         else{
